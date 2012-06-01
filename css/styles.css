@@ -1,0 +1,373 @@
+@import url('reset.css');
+
+/*
+###################Global###############
+*/
+body{
+	background: #50a1d5;
+}
+
+.gray_header{
+	color: #bcbdc0;
+	font-family: helvetica, sans-serif	;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.white_header{
+	color: #ffffff;
+	font-family: helvetica, sans-serif	;
+	font-weight: lighter;
+	
+}
+.green_header{
+	color: #96c654;
+	font-family: helvetica, sans-serif	;
+	font-weight: bold;
+}
+p,li{
+	color: #ffffff;
+	font-family: helvetica, sans-serif	;
+	font-weight: lighter;
+	line-height: 1.5;
+}
+li p{
+	font-size: 16px;
+}
+section{
+	width: 1024px;
+	height: 768px;
+	position: relative;
+	float: left;
+}
+#wrapper{
+	height: 768px;
+}
+#scroller{
+	overflow: auto;
+	width: 1024px;
+	height: 768px;
+}
+.sub_section{
+	border-bottom: 10px solid #a3cd3c;
+	height: 703px;
+	width: 996px;
+	padding: 40px 15px 15px;
+}
+.bottom_tab{
+	position: absolute;
+	bottom: 0px;
+	right: 50px;
+}
+.gray_tab{
+	position: absolute;
+	top: 0px;
+	right: 20px;
+	background: #bcbdc0;
+	color: #ffffff;
+	font-family: helvetica, sans-serif	;
+	font-weight: lighter;
+	padding: 10px 15px;
+	font-size: 14px;
+	text-transform: uppercase;
+	-webkit-box-shadow: -5px 5px 10px #3f7da6;
+}
+.col1{
+	width: 400px;
+	float: left;
+	margin: 0 30px 0 0;
+}
+.col2{
+	width: 400px;
+	float: left;
+
+}
+.rounded{
+	-webkit-border-radius: 15px;
+	border: 2px solid #bcbdc0;
+	width: 162px;
+	height: 200px;
+	background: #ffffff;
+	float: left;
+	color: #469bd3;
+	text-align: center;
+	font-size: 24px;
+	font-family: sans-serif;
+	font-weight: bold;
+	-webkit-box-shadow: -5px 5px 10px #3f7da6;
+}
+.rounded.small{
+	width: 100px;
+	-webkit-box-shadow: 0 0 0 #3f7da6;
+	margin: 0 5px 0 0;
+	height: auto;
+	font-size: 12px;
+}
+.rounded.small input{
+	width: 90px;
+}
+.rounded.small .rounded{
+	width: 100px;
+	height: 80px;
+	margin: 0 0 5px 0;
+}
+.rounded.med{
+	width: 110px;
+	-webkit-box-shadow: 0 0 0 #3f7da6;
+	margin: 0 5px 0 0;
+	height: 150px;
+	font-size: 18px;
+}
+.rounded.med input{
+	width: 100px;
+}
+.rounded.med .rounded{
+	width: 110px;
+	height: 80px;
+	margin: 0 0 5px 0;
+}
+.rounded .rounded{
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	height: 105px;
+	-webkit-border-radius: 13px;
+	vertical-align: middle;
+	position: relative;
+	margin: 0 0 25px 0;
+	-webkit-box-shadow: 0 0 0  #ffffff;
+	
+}
+.rounded .rounded h3{
+	display: block;
+	vertical-align: middle;
+	display: inline-block;
+	text-align: center;
+	position: absolute;
+	font-size: 18px;
+	width: 100%;
+	
+}
+.rounded ul{
+	list-style: none;
+	padding: 0px !important;
+	margin: 0;
+}
+.rounded li{
+	color: #4f97c3;
+	font-size: 16px !important;
+	font-weight: bold;
+	margin: 0  0 5px 0;
+}
+.spacer{
+	position: relative;
+	height: 200px;
+	float: left;
+}
+.plus{
+	padding: 9px 15px;
+	-webkit-border-radius: 30px;
+	background: #f7922c;
+	font-size: 28px;
+	color: #ffffff;
+	float: left;
+	position: relative;
+	margin: 0 10px;
+	top: 40%;
+	-webkit-box-shadow: -5px 5px 10px #3f7da6;
+}
+.equal{
+	padding: 9px 15px;
+	-webkit-border-radius: 30px;
+	background: #a3cd3c;
+	font-size: 28px;
+	color: #ffffff;
+	float: left;
+	position: relative;
+	margin: 0 10px;
+	top: 40%;
+	-webkit-box-shadow: -5px 5px 10px #3f7da6;
+}
+
+.orange{
+	background: #f7922c;
+}
+.green{
+	background: #a3cd3c;
+}
+.green_subheader{
+	color: #a3cd3c;
+}
+
+/*
+################### Landing page ###############
+*/
+#landing .header{
+	height: 192px;
+	width: 1024px;
+	text-align: center;
+	border-bottom: 10px solid #a3cd3c;
+	overflow: hidden;
+}
+#landing .header h2{
+	font-size: 24px;
+	margin: 50px 0 0 0;
+}
+#landing .header h3{
+	font-size: 24px;
+	margin: 10px 0 0 0;
+	
+}
+#landing .center{
+	height: 268px;
+	width: 1024px;
+	background: #ffffff;
+	text-align: center;
+}
+#landing .bottom{
+	border-top: 10px solid #a3cd3c;
+	height: 285px;
+	width: 1024px;
+	text-align: center;
+}
+#landing .bottom h2{
+	font-size: 24px;
+	margin: 50px 0 0 0;
+}
+#landing .bottom h3{
+	font-size: 32px;
+	margin: 10px 0 0 0;
+	
+}
+#landing .bottom #sales_rep{
+	text-align: left;
+	margin: 30px 0 0 0;
+	padding: 0 0 0 25px;
+	position: absolute;
+	bottom: 100px;
+}
+#landing .bottom #sales_rep h3{
+	font-size: 28px;
+	display: inline-block;
+	float: left;
+	width: 300px;
+}
+
+/*
+################### Sub Section ###############
+*/
+.sub_section h2{
+	font-size: 32px;
+	margin: 35px 0 15px 0;
+}
+
+/*
+################### About / Service Overview ###############
+*/
+
+#about p,#service_overview p{
+	font-size: 40px;
+	padding: 0 20px;
+}
+#about ul{
+	list-style: disc;
+	padding: 0 0 0 20px;
+	margin: 25px 0 0 0;
+}
+#about li{
+	font-size: 30px;
+	margin: 0 0 15px 0;
+	
+	
+}
+.service_overview_img{
+	margin: 0 auto;
+	display: block;
+}
+
+
+/*
+################### Payroll ###############
+*/
+.payroll{
+	background: url('../images/payroll_bg.jpg') no-repeat ; 
+	height: 733px;
+	width: 910px;
+	padding: 10px 15px 15px 100px;
+}
+.payroll ul{
+	padding: 0 0 0 20px;
+}
+.payroll ul li,.benefits ul li, .risk ul li, .human ul li{
+	font-size: 26px;
+}
+
+/*
+################### benefits analysis ###############
+*/
+.benefits{
+	background: url('../images/benefits_services.jpg') no-repeat ; 
+	height: 733px;
+	width: 910px;
+	padding: 10px 15px 15px 100px;
+}
+.risk{
+	background: url('../images/risk_bg.jpg') no-repeat ; 
+	height: 733px;
+	width: 910px;
+	padding: 10px 15px 15px 100px;
+}
+.human{
+	background: url('../images/human_bg.jpg') no-repeat ; 
+	height: 733px;
+	width: 910px;
+	padding: 10px 15px 15px 100px;
+}
+.benefit_analysis{
+	background: url('../images/benefits_analysis_bg.jpg') no-repeat ; 
+	height: 713px;
+	width: 874px;
+	padding: 20px 15px 15px 120px;
+}
+
+.small_ul{
+	list-style: none;
+	float: right;
+	margin: 5px 15px 0 0;
+}
+.small_ul li{
+	font-size: 16px !important;
+	margin: 0 0 5px 0;
+}
+.salary{
+	float: right;
+	position: absolute;
+	top: 80px;
+	right: 20px;
+}
+.salary_expert{
+	float: right;
+	position: absolute;
+	top: 210px;
+	right: 20px;
+}
+.wallstreet{
+	float: right;
+	position: absolute;
+	top: 390px;
+	right: 20px;
+	height: 70px;
+}
+.over_ride{
+	top: 10px !important;
+}
+.submit{
+	top: 40%;
+	left: 40%;
+	font-size: 40px;
+	position: absolute;
+}
+
+.rounded.height{
+	height: 260px !important;
+}

@@ -1,0 +1,29 @@
+[11-Dec-2011 18:15:52] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/thecreat/public_html/gms/application/views/index.php on line 49
+[12-Dec-2011 08:38:56] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/thecreat/public_html/gms/application/views/index.php on line 49
+[12-Dec-2011 09:32:43] PHP Fatal error:  Call to undefined method Presentations::edit() in /home/thecreat/public_html/gms/application/controllers/presentation.php on line 39
+[12-Dec-2011 10:01:00] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/thecreat/public_html/gms/application/views/edit.php on line 408
+[12-Dec-2011 10:16:35] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/thecreat/public_html/gms/application/controllers/presentation.php on line 44
+[12-Dec-2011 10:16:36] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/thecreat/public_html/gms/application/controllers/presentation.php on line 44
+[12-Dec-2011 10:32:53] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/thecreat/public_html/gms/application/views/view.php on line 499
+[12-Dec-2011 10:33:13] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/thecreat/public_html/gms/application/views/view.php on line 499
+[12-Dec-2011 10:33:15] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/thecreat/public_html/gms/application/views/view.php on line 499
+[12-Dec-2011 10:34:11] PHP Parse error:  syntax error, unexpected ';' in /home/thecreat/public_html/gms/application/views/view.php on line 521
+[12-Dec-2011 10:40:31] PHP Parse error:  syntax error, unexpected T_ECHO in /home/thecreat/public_html/gms/application/views/view.php on line 185
+[14-Dec-2011 12:03:46] PHP Fatal error:  Call to undefined function  site_url() in /home/thecreat/public_html/gms/application/views/view.php on line 579
+[14-Dec-2011 12:25:57] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/thecreat/public_html/gms/application/views/index.php on line 59
+[14-Dec-2011 12:27:43] PHP Fatal error:  Call to undefined function  redirect() in /home/thecreat/public_html/gms/application/controllers/presentation.php on line 54
+[14-Dec-2011 12:30:30] PHP Fatal error:  Call to undefined function  redirect() in /home/thecreat/public_html/gms/application/controllers/presentation.php on line 54
+[25-Jan-2012 11:15:59] PHP Fatal error:  Call to undefined function  redirect() in /home/thecreat/public_html/gms/application/controllers/presentation.php on line 53
+[27-Jan-2012 10:44:53] PHP Parse error:  syntax error, unexpected $end in /home/thecreat/public_html/gms/application/views/edit.php on line 114
+[05-Mar-2012 13:22:15] PHP Parse error:  syntax error, unexpected ',' in /home/thecreat/public_html/gms/application/views/view.php on line 463
+[05-Mar-2012 13:22:32] PHP Parse error:  syntax error, unexpected ',' in /home/thecreat/public_html/gms/application/views/view.php on line 463
+[05-Mar-2012 13:22:33] PHP Parse error:  syntax error, unexpected ',' in /home/thecreat/public_html/gms/application/views/view.php on line 463
+[05-Mar-2012 13:22:41] PHP Parse error:  syntax error, unexpected ',' in /home/thecreat/public_html/gms/application/views/view.php on line 463
+[05-Mar-2012 13:33:50] PHP Parse error:  syntax error, unexpected T_ECHO in /home/thecreat/public_html/gms/application/views/view.php on line 526
+[05-Mar-2012 13:33:51] PHP Parse error:  syntax error, unexpected T_ECHO in /home/thecreat/public_html/gms/application/views/view.php on line 526
+[05-Mar-2012 13:51:49] PHP Parse error:  syntax error, unexpected $end in /home/thecreat/public_html/gms/application/views/view.php on line 174
+[05-Mar-2012 14:11:19] PHP Parse error:  syntax error, unexpected $end in /home/thecreat/public_html/gms/application/views/view.php on line 218
+[11-Mar-2012 13:28:57] PHP Parse error:  syntax error, unexpected $end in /home/thecreat/public_html/gms/application/views/view.php on line 690
+[11-Mar-2012 13:33:47] PHP Parse error:  syntax error, unexpected $end in /home/thecreat/public_html/gms/application/views/view.php on line 692
+[11-Mar-2012 13:34:08] PHP Parse error:  syntax error, unexpected $end in /home/thecreat/public_html/gms/application/views/view.php on line 316
+[12-Apr-2012 11:26:43] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/thecreat/public_html/gms/application/views/view.php on line 365
