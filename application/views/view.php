@@ -810,7 +810,7 @@
   	  			</div>
   	  			<?
   	  			$admin_fee =$row->admin_fee/100;
-  	  			$number = $row->gross_wages * $admin_fee + $row->set_up_fee; echo "$". number_format($number, 2, '.', ','); 
+  	  			$number = $row->gross_wages * $admin_fee ; echo "$". number_format($number, 2, '.', ','); 
   	  			$admin_fee = $number;
   	  			?>
   	  			
