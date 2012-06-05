@@ -406,11 +406,11 @@
   	 			</div>
   	 			<ul>
   	 			<?$description = json_decode($row->description);?>
-  	 				<li><input type="number" name="description[]" value="<?= $description[0] ?>" /></li>
-  	 				<li><input type="number" name="description[]" value="<?= $description[1] ?>" /></li>
-  	 				<li><input type="number" name="description[]" value="<?= $description[2] ?>" /></li>
-  	 				<li><input type="number" name="description[]" value="<?= $description[3] ?>" /> </li>
-  	 				<li><input type="number" name="description[]" value="<?= $description[4] ?>" /></li>
+  	 				<li><input type="text" name="description[]" value="<?= $description[0] ?>" /></li>
+  	 				<li><input type="text" name="description[]" value="<?= $description[1] ?>" /></li>
+  	 				<li><input type="text" name="description[]" value="<?= $description[2] ?>" /></li>
+  	 				<li><input type="text" name="description[]" value="<?= $description[3] ?>" /> </li>
+  	 				<li><input type="text" name="description[]" value="<?= $description[4] ?>" /></li>
   	 				<li>----</li>
   	 			</ul>
   	 		</div>

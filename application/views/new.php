@@ -398,11 +398,11 @@
   	 				<h3 class="white_header">Description</h3>
   	 			</div>
   	 			<ul>
-  	 				<li><input type="number" name="description[]" value="" /></li>
-  	 				<li><input type="number" name="description[]" value="" /></li>
-  	 				<li><input type="number" name="description[]" value="" /></li>
-  	 				<li><input type="number" name="description[]" value="" /> </li>
-  	 				<li><input type="number" name="description[]" value="" /></li>
+  	 				<li><input type="text" name="description[]" value="" /></li>
+  	 				<li><input type="text" name="description[]" value="" /></li>
+  	 				<li><input type="text" name="description[]" value="" /></li>
+  	 				<li><input type="text" name="description[]" value="" /> </li>
+  	 				<li><input type="text" name="description[]" value="" /></li>
   	 			</ul>
   	 		</div>
   	
