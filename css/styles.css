@@ -211,6 +211,7 @@ section{
 }
 #landing img{
 	margin: 40px 0 0 0;
+	display: block;
 }
 #landing .header h2{
 	font-size: 24px;

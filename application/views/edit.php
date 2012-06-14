@@ -205,37 +205,7 @@
   	 <!-- service_overview -->
   	 
   	 
-  	 <section class="sub_section payroll" > 
-  	 <h4 class="gray_tab">GMS Menu oF ServiceS - overview</h4>
-  	 	<h2 class="gray_header">payroll ServiceS</h2>
-  	 	<article class="col1">
-  	 	<ul>
-  	 	  	<li>Full Service Payroll Processing</li>
-  	 	  	<li>Electronic New Hire Reporting</li>
-  	 	  	<li>Cafeteria Benefits Plan Administration</li>
-  	 	  	<li>500+ Customizable Payroll Reports with</li>
-  	 	  	<li>Job Costing Capabilities</li>
-  	 	  	<li>Internet Based Payroll Processing</li>
-  	 	  	<li>Employee Online Compensation Analysis</li>
-  	 	  	<li>Payroll Tax Payment &amp; Filing (includes 940, 941, State, County &amp; Multiple Local Tax Calculations and Filings)</li>
-  	 	</ul>
-  	 	</article>
-  	 	<article class="col2">
-  	 	<ul>
-  	 		<li>Retirement Plan Calculations</li>
-  	 		<li>Special Batch Runs</li>
-  	 		<li>Direct Deposit</li>
-  	 		<li>Time Keeping Systems (includes installation, programming and technical support)(cost determined by customer needs, range
-  	 		from $1,500 - $5,000)</li>
-  	 		<li>Garnishment Processing &amp; Payment ($2 fee billed to employee)</li>
-  	 		<li>GMS Debit Card Option</li>
-  	 		<li>Workers Comp Calculations &amp; Filing</li>
-  	 		<li>W2’s</li>
-  	 	</ul>
-  	 	</article>
-  	 </section>
   	 
-  	 <!-- payroll -->
   	 
   	 <section class="sub_section payroll" > 
   	 <h4 class="gray_tab">GMS Menu oF ServiceS - overview</h4>
